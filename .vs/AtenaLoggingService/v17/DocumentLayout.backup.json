@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\AtenaLoggingService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|d:\\projects\\atenaloggingservice\\atenaloggingservice\\atenaloggingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|solutionrelative:atenaloggingservice\\atenaloggingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|d:\\projects\\atenaloggingservice\\atenaloggingservice\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|solutionrelative:atenaloggingservice\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|d:\\projects\\atenaloggingservice\\atenaloggingservice\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|solutionrelative:atenaloggingservice\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|d:\\projects\\atenaloggingservice\\atenaloggingservice\\core\\autoprovisioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F520C9A2-F542-4182-B1F1-21B845791079}|AtenaLoggingService\\AtenaLoggingService.csproj|solutionrelative:atenaloggingservice\\core\\autoprovisioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,8 +45,56 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtenaLoggingService",
+              "DocumentMoniker": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\AtenaLoggingService.csproj",
+              "RelativeDocumentMoniker": "AtenaLoggingService\\AtenaLoggingService.csproj",
+              "ToolTip": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\AtenaLoggingService.csproj*",
+              "RelativeToolTip": "AtenaLoggingService\\AtenaLoggingService.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T12:12:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "AtenaLoggingService\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "AtenaLoggingService\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:10:06.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "AtenaLoggingService\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "AtenaLoggingService\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:08:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoProvisioner.cs",
+              "DocumentMoniker": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\Core\\AutoProvisioner.cs",
+              "RelativeDocumentMoniker": "AtenaLoggingService\\Core\\AutoProvisioner.cs",
+              "ToolTip": "D:\\Projects\\AtenaLoggingService\\AtenaLoggingService\\Core\\AutoProvisioner.cs",
+              "RelativeToolTip": "AtenaLoggingService\\Core\\AutoProvisioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:07:54.107Z",
+              "EditorCaption": ""
             }
           ]
         }
